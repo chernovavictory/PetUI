@@ -1,1 +1,7 @@
 /venv/
+data.py
+.env
+.idea
+.pytest_cache
+results
+
